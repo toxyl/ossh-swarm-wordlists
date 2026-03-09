@@ -1,0 +1,7 @@
+manager
+user6
+shiny
+mario
+root/bin
+updates
+nfsuser
