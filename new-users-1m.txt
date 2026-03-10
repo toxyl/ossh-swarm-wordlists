@@ -1,7 +1,8 @@
 manager
-user6
 shiny
-mario
+morteza
+ann
 root/bin
-updates
-nfsuser
+knight
+inna
+sensor

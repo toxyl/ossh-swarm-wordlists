@@ -1,2 +1,7 @@
 manager
+morteza
+ann
 root/bin
+knight
+inna
+sensor

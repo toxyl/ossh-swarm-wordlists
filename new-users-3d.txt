@@ -1,1 +1,6 @@
 manager
+morteza
+ann
+knight
+inna
+sensor
