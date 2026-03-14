@@ -94,13 +94,12 @@ cyl
 yuriy
 zbx
 steam1
-royal
 tux
 opsadmin
+strycek
 giorgio
 narong
 vignesh
-strycek
 ssa
 taylor
 huake

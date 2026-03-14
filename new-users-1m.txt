@@ -1,5 +1,4 @@
 manager
-shiny
 morteza
 ann
 root/bin
