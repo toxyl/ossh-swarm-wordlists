@@ -1,6 +1,1 @@
 guest1
-morteza
-ann
-knight
-inna
-sensor
