@@ -2,7 +2,6 @@ manager
 guest1
 morteza
 ann
-root/bin
 knight
 inna
 sensor
