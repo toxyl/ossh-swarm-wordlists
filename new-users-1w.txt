@@ -1,1 +1,9 @@
+sol
+admin1
+nobody
+cyberpanel
+elemental
 guest1
+toor
+gogs
+nikola

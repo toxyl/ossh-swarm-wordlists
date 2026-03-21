@@ -1,5 +1,13 @@
+sol
+admin1
+nobody
 manager
+cyberpanel
+elemental
 guest1
+toor
+gogs
+nikola
 morteza
 ann
 knight
