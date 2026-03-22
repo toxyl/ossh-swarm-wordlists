@@ -4,8 +4,8 @@ nobody
 manager
 cyberpanel
 elemental
-guest1
 toor
+guest1
 gogs
 nikola
 morteza

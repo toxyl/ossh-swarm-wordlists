@@ -2,3 +2,4 @@
 81.19.77.166:587
 ip-who.com:80
 google.com:443
+google.com:80

@@ -3,7 +3,7 @@ admin1
 nobody
 cyberpanel
 elemental
-guest1
 toor
+guest1
 gogs
 nikola
