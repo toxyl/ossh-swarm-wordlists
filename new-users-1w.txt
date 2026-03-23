@@ -4,6 +4,5 @@ nobody
 cyberpanel
 elemental
 toor
-guest1
 gogs
 nikola
