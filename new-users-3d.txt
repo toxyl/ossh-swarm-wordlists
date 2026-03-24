@@ -1,8 +1,0 @@
-sol
-admin1
-nobody
-cyberpanel
-elemental
-toor
-gogs
-nikola
