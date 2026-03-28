@@ -4,6 +4,7 @@ username
 nobody
 manager
 abc
+cassandra
 cyberpanel
 elemental
 superset
@@ -38,3 +39,4 @@ s3
 knight
 inna
 sensor
+jaron

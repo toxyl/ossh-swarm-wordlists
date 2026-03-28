@@ -5,6 +5,7 @@ username
 nobody
 manager
 abc
+cassandra
 localhost
 user4
 cyberpanel
@@ -67,3 +68,4 @@ inna
 gquiroz
 sensor
 Damian
+jaron
