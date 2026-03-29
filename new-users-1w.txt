@@ -1,6 +1,7 @@
 username
 abc
 cassandra
+backupuser
 superset
 proradis
 sistemas
@@ -15,9 +16,12 @@ koha
 brandon
 ami
 l4d2
+ceph
 eoffice
+profe
 yudi
 psg
+mysqluser
 gerard
 dino
 mt

@@ -1,11 +1,7 @@
 cassandra
-proradis
-pc
-casaos
-appltest
-sg
+backupuser
 brandon
-l4d2
-yudi
-psg
+ceph
+profe
+mysqluser
 jaron
