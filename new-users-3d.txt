@@ -1,10 +1,9 @@
-cassandra
 backupuser
 web1
 sina
+router
 testtest
 ceph
 profe
 mysqluser
 mana
-jaron

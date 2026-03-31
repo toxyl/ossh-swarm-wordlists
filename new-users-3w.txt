@@ -18,6 +18,7 @@ pc
 email
 casaos
 appltest
+router
 helen
 gogs
 sg
@@ -25,9 +26,7 @@ es_user
 koha
 nikola
 brandon
-ann
 ami
-morteza
 testtest
 l4d2
 ceph
@@ -43,7 +42,4 @@ mt
 yuany
 zeshan
 s3
-knight
-inna
-sensor
 jaron

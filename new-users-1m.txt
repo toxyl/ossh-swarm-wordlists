@@ -19,6 +19,7 @@ pc
 email
 casaos
 appltest
+router
 helen
 gogs
 sg

@@ -11,6 +11,7 @@ pc
 email
 casaos
 appltest
+router
 helen
 sg
 es_user
