@@ -1,7 +1,4 @@
-web1
-sina
 router
-testtest
-mana
+koko
 chillinghome
 desiree
