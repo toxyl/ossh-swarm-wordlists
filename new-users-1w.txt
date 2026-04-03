@@ -2,8 +2,8 @@ cassandra
 backupuser
 web1
 sina
+yy
 router
-brandon
 testtest
 ceph
 profe
