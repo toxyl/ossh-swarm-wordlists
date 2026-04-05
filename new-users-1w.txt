@@ -1,13 +1,9 @@
-backupuser
 web1
 qwerty
 sina
 yy
 router
 testtest
-ceph
-profe
-mysqluser
 koko
 mana
 chillinghome

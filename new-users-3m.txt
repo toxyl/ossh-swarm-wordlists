@@ -35,8 +35,8 @@ gogs
 sg
 tmpuser
 koha
-shiny
 es_user
+shiny
 mario
 nikola
 brandon
@@ -50,9 +50,9 @@ nano
 l4d2
 ceph
 eoffice
+root/bin
 rajeev
 zoom
-root/bin
 profe
 updates
 yudi
