@@ -24,8 +24,8 @@ helen
 gogs
 sg
 koha
-es_user
 nikola
+es_user
 brandon
 testtest
 ami
@@ -43,7 +43,7 @@ dino
 mt
 yuany
 zeshan
-chillinghome
 s3
+chillinghome
 desiree
 jaron
