@@ -2,7 +2,6 @@ sol
 admin1
 username
 nobody
-manager
 abc
 cassandra
 cyberpanel
