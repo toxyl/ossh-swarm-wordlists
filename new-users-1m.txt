@@ -9,8 +9,8 @@ elemental
 backupuser
 web1
 qwerty
-superset
 guest1
+superset
 proradis
 toor
 sina
@@ -29,9 +29,7 @@ nikola
 es_user
 brandon
 testtest
-ann
 ami
-morteza
 l4d2
 ceph
 eoffice
@@ -48,8 +46,5 @@ yuany
 zeshan
 s3
 chillinghome
-knight
-inna
 desiree
-sensor
 jaron
