@@ -1,5 +1,4 @@
 sol
-ranger
 admin1
 username
 nobody
@@ -16,8 +15,8 @@ web1
 qwerty
 guest1
 superset
-proradis
 sina
+proradis
 toor
 sistemas
 yy
@@ -52,9 +51,9 @@ ceph
 eoffice
 root/bin
 rajeev
+steam1
 zoom
 profe
-steam1
 updates
 yudi
 psg
