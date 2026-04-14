@@ -25,7 +25,6 @@ pc
 samuel
 email
 casaos
-book
 hugo
 appltest
 router
