@@ -9,11 +9,10 @@ elemental
 backupuser
 web1
 qwerty
-guest1
 sina
 superset
-proradis
 toor
+proradis
 sistemas
 yy
 pc
