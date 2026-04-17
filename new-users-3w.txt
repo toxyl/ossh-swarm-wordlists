@@ -7,7 +7,6 @@ yy
 router
 testtest
 lisa
-brandon
 ceph
 profe
 mysqluser

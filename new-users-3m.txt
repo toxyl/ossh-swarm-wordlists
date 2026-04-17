@@ -12,16 +12,16 @@ cyberpanel
 elemental
 backupuser
 web1
-qwerty
 guest1
+qwerty
 sina
 superset
 toor
 proradis
 sistemas
 yy
-cody
 samuel
+cody
 pc
 email
 casaos
@@ -49,7 +49,6 @@ l4d2
 ceph
 eoffice
 root/bin
-rajeev
 updates
 steam1
 zoom
