@@ -1,4 +1,3 @@
-cassandra
 backupuser
 web1
 qwerty
@@ -14,4 +13,3 @@ koko
 mana
 chillinghome
 desiree
-jaron
