@@ -25,8 +25,8 @@ cody
 pc
 email
 casaos
-appltest
 hugo
+appltest
 router
 helen
 gogs
@@ -34,8 +34,8 @@ sg
 tmpuser
 es_user
 koha
-nikola
 mario
+nikola
 shiny
 testtest
 ww
@@ -48,15 +48,14 @@ nano
 l4d2
 ceph
 eoffice
+steam1
 root/bin
 updates
-steam1
 zoom
 profe
 yudi
 psg
 mysqluser
-gokul
 gerard
 koko
 cyl
@@ -73,7 +72,6 @@ echoingeexpression
 nfsuser
 knight
 inna
-gquiroz
 desiree
 sensor
 Damian
