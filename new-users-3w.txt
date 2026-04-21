@@ -1,6 +1,5 @@
 qwerty
 yy
-router
 lisa
 koko
 chillinghome
