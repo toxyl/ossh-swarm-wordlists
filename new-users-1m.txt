@@ -16,8 +16,8 @@ appltest
 router
 helen
 sg
-es_user
 koha
+es_user
 testtest
 lisa
 brandon

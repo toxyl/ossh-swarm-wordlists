@@ -31,10 +31,9 @@ router
 helen
 gogs
 sg
-tmpuser
+koha
 es_user
 mario
-koha
 nikola
 shiny
 testtest
@@ -48,7 +47,6 @@ nano
 l4d2
 ceph
 eoffice
-steam1
 root/bin
 updates
 zoom
