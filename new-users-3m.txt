@@ -12,8 +12,8 @@ cyberpanel
 elemental
 backupuser
 guest1
-web1
 sina
+web1
 qwerty
 superset
 toor

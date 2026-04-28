@@ -1,8 +1,7 @@
-cassandra
 mohammad
 backupuser
-web1
 sina
+web1
 qwerty
 yy
 jesus
@@ -17,4 +16,3 @@ johnny
 mana
 chillinghome
 desiree
-jaron
