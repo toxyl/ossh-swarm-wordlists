@@ -1,5 +1,4 @@
 mohammad
-backupuser
 sina
 web1
 qwerty
@@ -8,11 +7,9 @@ jesus
 router
 testtest
 lisa
-ceph
-profe
-mysqluser
 koko
 johnny
 mana
 chillinghome
 desiree
+ginger
