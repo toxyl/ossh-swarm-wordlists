@@ -6,6 +6,7 @@ manager
 abc
 cassandra
 user4
+administrador
 mohammad
 user6
 cyberpanel
