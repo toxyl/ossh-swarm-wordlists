@@ -5,6 +5,6 @@ ip-who.com:80
 google.com:443
 130.12.180.103:80
 api.ipify.org:443
-google.com:80
 130.12.182.185:80
+google.com:80
 176.65.132.5:80
