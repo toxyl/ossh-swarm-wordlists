@@ -16,8 +16,8 @@ sina
 guest1
 web1
 qwerty
-superset
 toor
+superset
 proradis
 sistemas
 yy
@@ -42,7 +42,6 @@ ww
 ann
 ami
 morteza
-nano
 l4d2
 ceph
 eoffice
