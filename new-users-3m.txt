@@ -38,7 +38,6 @@ nikola
 testtest
 brandon
 lisa
-ww
 ann
 ami
 morteza
@@ -47,7 +46,6 @@ ceph
 eoffice
 root/bin
 updates
-zoom
 profe
 mysqluser
 yudi
@@ -55,7 +53,6 @@ psg
 gerard
 koko
 johnny
-cyl
 pub
 mana
 dino

@@ -2,6 +2,6 @@
 141.101.90.1:3478
 1.1.1.1:53
 ip-who.com:80
-api.ipify.org:443
 94.26.106.201:80
+api.ipify.org:443
 google.com:443
