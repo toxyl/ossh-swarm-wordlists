@@ -4,5 +4,5 @@ ip-who.com:80
 1.1.1.1:53
 94.26.106.201:80
 google.com:443
-api.ipify.org:443
 google.com:80
+api.ipify.org:443

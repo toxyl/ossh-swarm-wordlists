@@ -58,7 +58,6 @@ mana
 dino
 mt
 yuany
-e
 zeshan
 s3
 chillinghome
