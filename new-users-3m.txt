@@ -6,13 +6,12 @@ manager
 abc
 cassandra
 administrador
-user6
 mohammad
 cyberpanel
-elemental
 sina
-backupuser
+elemental
 guest1
+backupuser
 web1
 qwerty
 toor
@@ -30,9 +29,8 @@ jesus
 helen
 gogs
 sg
-mario
-es_user
 testtest
+es_user
 shiny
 koha
 nikola
@@ -46,7 +44,6 @@ ceph
 anand
 eoffice
 root/bin
-updates
 mysqluser
 profe
 yudi
@@ -62,7 +59,6 @@ yuany
 zeshan
 s3
 chillinghome
-nfsuser
 knight
 inna
 desiree
