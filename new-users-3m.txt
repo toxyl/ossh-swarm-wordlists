@@ -33,7 +33,6 @@ gogs
 sg
 testtest
 es_user
-shiny
 koha
 nikola
 brandon

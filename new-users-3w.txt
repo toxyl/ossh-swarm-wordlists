@@ -8,7 +8,6 @@ test-user
 anand
 gino
 karthik
-johnny
 pub
 iman
 ginger
