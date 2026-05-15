@@ -4,7 +4,6 @@ hennadii
 like
 newusername
 jesus
-lisa
 test-user
 anand
 gino

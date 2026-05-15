@@ -24,9 +24,9 @@ newusername
 yy
 pc
 email
+router
 casaos
 appltest
-router
 jesus
 helen
 gogs
