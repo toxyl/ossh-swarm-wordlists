@@ -30,14 +30,14 @@ appltest
 jesus
 helen
 gogs
-sg
 es_user
+sg
 testtest
 koha
 nikola
+aaaa
 brandon
 lisa
-aaaa
 ann
 test-user
 ami
@@ -47,8 +47,8 @@ ceph
 anand
 gino
 eoffice
-root/bin
 mysqluser
+root/bin
 profe
 karthik
 yudi
