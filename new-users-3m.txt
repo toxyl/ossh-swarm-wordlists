@@ -20,8 +20,8 @@ superset
 proradis
 like
 sistemas
-newusername
 yy
+newusername
 pc
 email
 router
@@ -48,7 +48,6 @@ anand
 gino
 eoffice
 mysqluser
-root/bin
 profe
 karthik
 yudi
