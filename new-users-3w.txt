@@ -9,4 +9,3 @@ gino
 karthik
 pub
 iman
-ginger
