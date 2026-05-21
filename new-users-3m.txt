@@ -30,8 +30,8 @@ appltest
 jesus
 helen
 gogs
-es_user
 sg
+es_user
 testtest
 koha
 aaaa
