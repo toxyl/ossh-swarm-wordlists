@@ -3,8 +3,8 @@
 77.88.21.125:993
 141.101.90.1:3478
 ip-who.com:80
-google.com:80
 94.26.106.201:80
+google.com:80
 google.com:443
 31.57.216.33:80
 api.ipify.org:443
