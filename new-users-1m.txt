@@ -9,4 +9,3 @@ anand
 karthik
 pub
 iman
-ginger
