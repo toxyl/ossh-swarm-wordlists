@@ -2,8 +2,8 @@ sol
 admin1
 username
 nobody
-manager
 abc
+manager
 cassandra
 mohammad
 administrador
@@ -43,9 +43,9 @@ test-user
 ami
 morteza
 l4d2
-gino
-ceph
 anand
+ceph
+gino
 eoffice
 mysqluser
 profe
