@@ -3,6 +3,7 @@ librenms
 like
 newusername
 aaaa
+student10
 test-user
 anand
 gino
