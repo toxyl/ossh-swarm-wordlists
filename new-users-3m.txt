@@ -3,7 +3,6 @@ admin1
 username
 nobody
 abc
-manager
 mohammad
 cassandra
 administrador
@@ -55,8 +54,8 @@ profe
 karthik
 yudi
 psg
-mana
 gerard
+mana
 johnny
 koko
 pub
