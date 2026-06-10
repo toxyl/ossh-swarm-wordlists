@@ -39,9 +39,7 @@ nikola
 brandon
 lisa
 student10
-ann
 ami
-morteza
 test-user
 l4d2
 ceph
@@ -66,9 +64,6 @@ yuany
 zeshan
 s3
 chillinghome
-knight
-inna
 ginger
 desiree
-sensor
 jaron
