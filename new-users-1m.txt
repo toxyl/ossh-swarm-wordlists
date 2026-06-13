@@ -1,10 +1,4 @@
-hennadii
 librenms
-newusername
 aaaa
 student10
-test-user
-gino
 baba
-karthik
-iman
