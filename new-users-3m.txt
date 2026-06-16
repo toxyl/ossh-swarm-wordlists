@@ -8,7 +8,6 @@ cassandra
 administrador
 cyberpanel
 hennadii
-guest1
 sina
 elemental
 backupuser
@@ -31,8 +30,8 @@ jesus
 helen
 gogs
 sg
-brandon
 testtest
+brandon
 es_user
 koha
 aaaa
