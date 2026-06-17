@@ -9,54 +9,54 @@ Datasets starting with `new` represent values that have never been seen before t
 
 | Dataset | Records | Description |
 | --- | --- | --- |
-| hosts-1d | 335 | Hosts that connected within the last 24 hours. |
-| hosts-3d | 873 | Hosts that connected within the last 3 days. |
-| hosts-1w | 1815 | Hosts that connected within the last 7 days. |
-| hosts-3w | 6302 | Hosts that connected within the last 21 days. |
-| hosts-1m | 9369 | Hosts that connected within the last month. |
-| hosts-3m | 20448 | Hosts that connected within the last 3 months. |
-| users-1d | 619 | Usernames used to connect within the last 24 hours. |
-| users-3d | 1198 | Usernames used to connect within the last 3 days. |
-| users-1w | 1915 | Usernames used to connect within the last 7 days. |
-| users-3w | 4426 | Usernames used to connect within the last 21 days. |
-| users-1m | 5346 | Usernames used to connect within the last month. |
-| users-3m | 9821 | Usernames used to connect within the last 3 months. |
-| passwords-1d | 1201 | Passwords used to connect within the last 24 hours. |
-| passwords-3d | 2532 | Passwords used to connect within the last 3 days. |
-| passwords-1w | 8968 | Passwords used to connect within the last 7 days. |
-| passwords-3w | 50009 | Passwords used to connect within the last 21 days. |
-| passwords-1m | 62469 | Passwords used to connect within the last month. |
-| passwords-3m | 118113 | Passwords used to connect within the last 3 months. |
-| destinations-1d | 13 | Destinations of proxy attempts within the last 24 hours. |
-| destinations-3d | 14 | Destinations of proxy attempts within the last 3 days. |
+| hosts-1d | 360 | Hosts that connected within the last 24 hours. |
+| hosts-3d | 819 | Hosts that connected within the last 3 days. |
+| hosts-1w | 1847 | Hosts that connected within the last 7 days. |
+| hosts-3w | 6218 | Hosts that connected within the last 21 days. |
+| hosts-1m | 9245 | Hosts that connected within the last month. |
+| hosts-3m | 20296 | Hosts that connected within the last 3 months. |
+| users-1d | 605 | Usernames used to connect within the last 24 hours. |
+| users-3d | 1059 | Usernames used to connect within the last 3 days. |
+| users-1w | 1953 | Usernames used to connect within the last 7 days. |
+| users-3w | 4463 | Usernames used to connect within the last 21 days. |
+| users-1m | 5366 | Usernames used to connect within the last month. |
+| users-3m | 9879 | Usernames used to connect within the last 3 months. |
+| passwords-1d | 2294 | Passwords used to connect within the last 24 hours. |
+| passwords-3d | 3232 | Passwords used to connect within the last 3 days. |
+| passwords-1w | 8810 | Passwords used to connect within the last 7 days. |
+| passwords-3w | 50225 | Passwords used to connect within the last 21 days. |
+| passwords-1m | 62328 | Passwords used to connect within the last month. |
+| passwords-3m | 117776 | Passwords used to connect within the last 3 months. |
+| destinations-1d | 2 | Destinations of proxy attempts within the last 24 hours. |
+| destinations-3d | 15 | Destinations of proxy attempts within the last 3 days. |
 | destinations-1w | 16 | Destinations of proxy attempts within the last 7 days. |
 | destinations-3w | 63 | Destinations of proxy attempts within the last 21 days. |
-| destinations-1m | 66 | Destinations of proxy attempts within the last month. |
+| destinations-1m | 63 | Destinations of proxy attempts within the last month. |
 | destinations-3m | 123 | Destinations of proxy attempts within the last 3 months. |
-| payloads-1d | 28 | Payloads execution attempts within the last 24 hours. |
-| payloads-3d | 34 | Payloads execution attempts within the last 3 days. |
-| payloads-1w | 37 | Payloads execution attempts within the last 7 days. |
-| payloads-3w | 159 | Payloads execution attempts within the last 21 days. |
-| payloads-1m | 182 | Payloads execution attempts within the last month. |
+| payloads-1d | 39 | Payloads execution attempts within the last 24 hours. |
+| payloads-3d | 49 | Payloads execution attempts within the last 3 days. |
+| payloads-1w | 52 | Payloads execution attempts within the last 7 days. |
+| payloads-3w | 163 | Payloads execution attempts within the last 21 days. |
+| payloads-1m | 181 | Payloads execution attempts within the last month. |
 | payloads-3m | 797 | Payloads execution attempts within the last 3 months. |
 | new-hosts-1d | 0 | New hosts that connected within the last 24 hours. |
 | new-hosts-3d | 0 | New hosts that connected within the last 3 days. |
 | new-hosts-1w | 0 | New hosts that connected within the last 7 days. |
 | new-hosts-3w | 3 | New hosts that connected within the last 21 days. |
-| new-hosts-1m | 4 | New hosts that connected within the last month. |
+| new-hosts-1m | 3 | New hosts that connected within the last month. |
 | new-hosts-3m | 68 | New hosts that connected within the last 3 months. |
 | new-users-1d | 0 | New usernames used to connect within the last 24 hours. |
 | new-users-3d | 0 | New usernames used to connect within the last 3 days. |
 | new-users-1w | 0 | New usernames used to connect within the last 7 days. |
 | new-users-3w | 3 | New usernames used to connect within the last 21 days. |
-| new-users-1m | 4 | New usernames used to connect within the last month. |
+| new-users-1m | 3 | New usernames used to connect within the last month. |
 | new-users-3m | 68 | New usernames used to connect within the last 3 months. |
-| new-passwords-1d | 152 | New passwords used to connect within the last 24 hours. |
-| new-passwords-3d | 420 | New passwords used to connect within the last 3 days. |
-| new-passwords-1w | 1153 | New passwords used to connect within the last 7 days. |
-| new-passwords-3w | 6927 | New passwords used to connect within the last 21 days. |
-| new-passwords-1m | 9156 | New passwords used to connect within the last month. |
-| new-passwords-3m | 47707 | New passwords used to connect within the last 3 months. |
+| new-passwords-1d | 274 | New passwords used to connect within the last 24 hours. |
+| new-passwords-3d | 483 | New passwords used to connect within the last 3 days. |
+| new-passwords-1w | 1247 | New passwords used to connect within the last 7 days. |
+| new-passwords-3w | 7100 | New passwords used to connect within the last 21 days. |
+| new-passwords-1m | 9010 | New passwords used to connect within the last month. |
+| new-passwords-3m | 47287 | New passwords used to connect within the last 3 months. |
 | new-destinations-1d | 0 | New destinations of proxy attempts within the last 24 hours. |
 | new-destinations-3d | 0 | New destinations of proxy attempts within the last 3 days. |
 | new-destinations-1w | 0 | New destinations of proxy attempts within the last 7 days. |
@@ -67,5 +67,5 @@ Datasets starting with `new` represent values that have never been seen before t
 | new-payloads-3d | 0 | New payloads execution attempts within the last 3 days. |
 | new-payloads-1w | 0 | New payloads execution attempts within the last 7 days. |
 | new-payloads-3w | 2 | New payloads execution attempts within the last 21 days. |
-| new-payloads-1m | 3 | New payloads execution attempts within the last month. |
-| new-payloads-3m | 62 | New payloads execution attempts within the last 3 months. |
+| new-payloads-1m | 2 | New payloads execution attempts within the last month. |
+| new-payloads-3m | 63 | New payloads execution attempts within the last 3 months. |
