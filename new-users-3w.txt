@@ -1,3 +1,1 @@
-librenms
 student10
-baba
