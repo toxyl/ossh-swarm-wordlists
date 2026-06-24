@@ -1,5 +1,4 @@
-ip-who.com:80
 141.101.90.1:3478
-google.com:80
+ip-who.com:80
 google.com:443
 62.210.131.144:2535
