@@ -12,7 +12,6 @@ newusername
 yy
 router
 jesus
-brandon
 testtest
 aaaa
 abdullah
