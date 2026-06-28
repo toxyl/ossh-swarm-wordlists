@@ -1,6 +1,5 @@
 mohammad
 administrador
-cassandra
 hennadii
 sina
 backupuser
@@ -34,4 +33,3 @@ pbsworks
 chillinghome
 ginger
 desiree
-jaron
