@@ -1,8 +1,6 @@
 mohammad
 administrador
 hennadii
-sina
-web1
 qwerty
 librenms
 like
@@ -10,7 +8,6 @@ newusername
 yy
 router
 jesus
-testtest
 aaaa
 abdullah
 lisa
@@ -21,7 +18,6 @@ gino
 baba
 karthik
 johnny
-mana
 koko
 pub
 iman
