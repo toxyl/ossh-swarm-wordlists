@@ -6,7 +6,6 @@ librenms
 like
 newusername
 yy
-router
 jesus
 aaaa
 abdullah
