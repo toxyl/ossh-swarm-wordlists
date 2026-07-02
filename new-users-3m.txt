@@ -17,10 +17,7 @@ gino
 baba
 karthik
 johnny
-koko
 pub
 iman
 pbsworks
-chillinghome
 ginger
-desiree

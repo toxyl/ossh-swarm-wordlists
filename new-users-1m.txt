@@ -1,5 +1,3 @@
-librenms
 abdullah
 student10
-baba
 pbsworks
