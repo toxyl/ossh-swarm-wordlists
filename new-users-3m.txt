@@ -5,7 +5,6 @@ qwerty
 librenms
 like
 newusername
-yy
 jesus
 aaaa
 abdullah
