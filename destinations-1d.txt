@@ -1,2 +1,8 @@
-ip-who.com:80
+azulvpn.com:443
+graph.facebook.com:443
+www.pullcm.com:80
+172.19.0.2:853
 141.101.90.1:3478
+1.1.1.1:53
+mtalk.google.com:5228
+test-gateway.instagram.com:443

@@ -1,7 +1,11 @@
 141.101.90.1:3478
 azulvpn.com:443
-ip-who.com:80
-mtalk.google.com:5228
 172.19.0.2:853
+mtalk.google.com:5228
+graph.facebook.com:443
+ip-who.com:80
+www.pullcm.com:80
 walnut.alphashareit.works:80
 mtalk.google.com:443
+1.1.1.1:53
+test-gateway.instagram.com:443
