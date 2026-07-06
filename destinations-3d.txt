@@ -1,10 +1,11 @@
 1.1.1.1:53
 azulvpn.com:443
-141.101.90.1:3478
 graph.facebook.com:443
 google.com:443
+141.101.90.1:3478
 www.pullcm.com:80
 172.19.0.2:853
 ip-who.com:80
+1.1.1.1:80
 mtalk.google.com:5228
 test-gateway.instagram.com:443
