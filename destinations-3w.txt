@@ -1,8 +1,8 @@
 141.101.90.1:3478
-ip-who.com:80
 1.1.1.1:53
-azulvpn.com:443
+ip-who.com:80
 8.8.8.8:443
+azulvpn.com:443
 google.com:443
 172.19.0.2:853
 mtalk.google.com:5228
