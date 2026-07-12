@@ -1,5 +1,5 @@
-141.101.90.1:3478
 1.1.1.1:53
+141.101.90.1:3478
 ip-who.com:80
 8.8.8.8:443
 azulvpn.com:443
@@ -11,5 +11,4 @@ www.pullcm.com:80
 walnut.alphashareit.works:80
 mtalk.google.com:443
 1.1.1.1:80
-62.210.131.144:2535
 test-gateway.instagram.com:443

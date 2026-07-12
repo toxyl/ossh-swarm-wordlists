@@ -8,7 +8,6 @@ ip-who.com:80
 8.8.8.8:443
 azulvpn.com:443
 google.com:443
-62.210.131.144:2525
 172.19.0.2:853
 mtalk.google.com:5228
 graph.facebook.com:443
