@@ -7,7 +7,6 @@ newusername
 jesus
 aaaa
 abdullah
-lisa
 student10
 test-user
 anand
