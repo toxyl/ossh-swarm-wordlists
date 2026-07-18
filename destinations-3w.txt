@@ -7,9 +7,9 @@ google.com:443
 172.19.0.2:853
 mtalk.google.com:5228
 graph.facebook.com:443
+1.1.1.1:80
 www.pullcm.com:80
 walnut.alphashareit.works:80
 mtalk.google.com:443
-1.1.1.1:80
 94.26.106.19:80
 test-gateway.instagram.com:443
