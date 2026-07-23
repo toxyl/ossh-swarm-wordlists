@@ -4,8 +4,8 @@ ip-who.com:80
 141.101.90.1:3478
 azulvpn.com:443
 google.com:443
-172.19.0.2:853
 1.1.1.1:80
+172.19.0.2:853
 mtalk.google.com:5228
 graph.facebook.com:443
 www.pullcm.com:80

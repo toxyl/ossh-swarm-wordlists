@@ -13,7 +13,6 @@ anand
 gino
 baba
 karthik
-johnny
 pub
 iman
 pbsworks
