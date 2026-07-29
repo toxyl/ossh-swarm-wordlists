@@ -14,4 +14,3 @@ karthik
 pub
 iman
 pbsworks
-ginger
