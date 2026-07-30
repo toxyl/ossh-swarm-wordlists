@@ -1,9 +1,9 @@
 1.1.1.1:53
 ip-who.com:80
 8.8.8.8:443
-141.101.90.1:3478
 google.com:443
 1.1.1.1:80
+141.101.90.1:3478
 azulvpn.com:443
 graph.facebook.com:443
 www.pullcm.com:80

@@ -1,4 +1,3 @@
-administrador
 hennadii
 librenms
 like
