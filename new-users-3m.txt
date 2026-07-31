@@ -10,6 +10,5 @@ anand
 gino
 baba
 karthik
-pub
 iman
 pbsworks
