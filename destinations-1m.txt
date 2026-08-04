@@ -3,12 +3,6 @@ ip-who.com:80
 8.8.8.8:443
 google.com:443
 1.1.1.1:80
-azulvpn.com:443
-graph.facebook.com:443
-141.101.90.1:3478
-www.pullcm.com:80
-172.19.0.2:853
 google.com:80
+141.101.90.1:3478
 94.26.106.19:80
-mtalk.google.com:5228
-test-gateway.instagram.com:443

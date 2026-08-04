@@ -1,4 +1,5 @@
 1.1.1.1:53
 ip-who.com:80
 8.8.8.8:443
+google.com:80
 google.com:443
