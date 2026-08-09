@@ -1,12 +1,10 @@
 hennadii
 librenms
-like
 newusername
 aaaa
 abdullah
 student10
 test-user
-anand
 gino
 baba
 karthik
