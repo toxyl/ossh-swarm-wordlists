@@ -1,12 +1,7 @@
-hennadii
 librenms
-newusername
 aaaa
 abdullah
 student10
-test-user
-gino
 baba
-karthik
-iman
+stas
 pbsworks
