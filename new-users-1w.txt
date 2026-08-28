@@ -1,5 +1,6 @@
 lighthouse
 test3
+loginuser
 bill
 elise
 whmcs
