@@ -1,12 +1,11 @@
 lighthouse
 test3
 loginuser
-librenms
+tty0
 tushar
 bill
 abdullah
 student10
-baba
 elise
 stas
 whmcs
