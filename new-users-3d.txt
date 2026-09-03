@@ -1,2 +1,4 @@
 guestuser
 tty0
+dzq
+anonymus

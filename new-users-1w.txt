@@ -1,6 +1,5 @@
-lighthouse
 loginuser
 guestuser
 tty0
-bill
-dara
+dzq
+anonymus
