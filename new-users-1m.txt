@@ -4,7 +4,9 @@ loginuser
 guestuser
 tty0
 tushar
+francesco
 bill
+light
 dzq
 elise
 stas

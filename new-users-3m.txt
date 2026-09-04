@@ -4,8 +4,10 @@ loginuser
 guestuser
 tty0
 tushar
+francesco
 bill
 abdullah
+light
 dzq
 elise
 stas

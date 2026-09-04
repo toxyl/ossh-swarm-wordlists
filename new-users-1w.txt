@@ -1,5 +1,6 @@
-loginuser
 guestuser
 tty0
+francesco
+light
 dzq
 anonymus
