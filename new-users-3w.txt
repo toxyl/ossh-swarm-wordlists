@@ -3,7 +3,6 @@ test3
 loginuser
 guestuser
 tty0
-tushar
 francesco
 bill
 light

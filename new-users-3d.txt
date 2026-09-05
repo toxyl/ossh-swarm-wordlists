@@ -1,4 +1,3 @@
-guestuser
 francesco
 light
 dzq
