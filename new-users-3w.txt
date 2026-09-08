@@ -8,8 +8,6 @@ bill
 light
 dzq
 elise
-workspace
 whmcs
 dara
 anonymus
-mariam
