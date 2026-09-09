@@ -6,6 +6,7 @@ tty0
 francesco
 bill
 light
+highgo
 dzq
 elise
 whmcs
