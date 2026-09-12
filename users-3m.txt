@@ -846,6 +846,7 @@ webserver
 jason
 nick
 smart
+userftp
 root2
 njupt019
 csc
@@ -855,7 +856,6 @@ thor
 ssh
 ww
 sandbox
-userftp
 test5
 engineer
 debianuser
@@ -1589,7 +1589,6 @@ sc
 nancy
 bamboo
 mcuser
-rishabh
 den
 sl
 adm
@@ -1690,6 +1689,7 @@ rtorrent
 bigbluebutton
 whatsapp
 inspur
+rishabh
 don
 video
 vmadmin
@@ -6851,6 +6851,7 @@ banxgg
 lxf
 vh
 decred
+icon
 administracion
 opennms
 iie
@@ -9497,7 +9498,6 @@ cjy
 cortez
 netman
 hausadel
-icon
 mob
 piranha
 almox
