@@ -16,7 +16,6 @@ light
 crystal
 highgo
 dzq
-stas
 elise
 iso
 workspace
