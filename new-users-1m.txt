@@ -6,7 +6,6 @@ brian
 0
 guestuser
 tty0
-tushar
 caddy
 bill
 st
