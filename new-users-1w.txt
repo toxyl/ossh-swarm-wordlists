@@ -5,7 +5,6 @@ caddy
 st
 gera
 crystal
-highgo
 iso
 violet
 yf
