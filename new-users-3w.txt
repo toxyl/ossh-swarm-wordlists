@@ -1,5 +1,4 @@
 daniel
-loginuser
 brian
 0
 guestuser
