@@ -1,5 +1,4 @@
 lighthouse
-test3
 daniel
 loginuser
 brian
@@ -9,8 +8,8 @@ tty0
 tbds
 r
 caddy
-bill
 st
+bill
 francesco
 gera
 light
@@ -18,9 +17,7 @@ crystal
 highgo
 dzq
 iso
-elise
 violet
-whmcs
 dara
 yf
 amits

@@ -2,7 +2,6 @@ daniel
 brian
 0
 guestuser
-tty0
 tbds
 r
 caddy
