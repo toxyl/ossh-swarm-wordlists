@@ -2,8 +2,6 @@ daniel
 brian
 0
 backuply
-guestuser
-tty0
 tbds
 r
 st
