@@ -5,8 +5,8 @@ loginuser
 brian
 0
 backuply
-tbds
 tty0
+tbds
 guestuser
 tushar
 r
@@ -21,8 +21,8 @@ light
 crystal
 highgo
 dzq
-iso
 elise
+iso
 dara
 reelftptv
 workspace
