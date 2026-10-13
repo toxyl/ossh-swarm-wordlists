@@ -5,8 +5,8 @@ loginuser
 brian
 backuply
 0
-tty0
 tbds
+tty0
 guestuser
 tushar
 stas
