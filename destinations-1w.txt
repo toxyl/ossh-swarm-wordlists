@@ -2,3 +2,4 @@ ip-who.com:80
 google.com:80
 google.com:443
 93.152.221.206:80
+z-m-gateway.facebook.com:443
