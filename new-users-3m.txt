@@ -4,8 +4,8 @@ daniel
 loginuser
 backuply
 brian
-tty0
 0
+tty0
 tbds
 guestuser
 tushar
