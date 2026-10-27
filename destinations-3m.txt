@@ -74,3 +74,4 @@ checkip.amazonaws.com:443
 93.152.221.206:80
 z-m-gateway.facebook.com:443
 142.251.98.100:443
+102.220.163.206:80
