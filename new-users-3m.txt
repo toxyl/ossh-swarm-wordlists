@@ -59,7 +59,6 @@ Root:
 root:bgsM0R3s3cur3!
 envios
 root:ilhs
-irisha
 1qaz@wsx
 myrwyn
 kkye
@@ -94,3 +93,4 @@ lancaster
 peggy
 gaohengyuan
 testrsync
+hyu
