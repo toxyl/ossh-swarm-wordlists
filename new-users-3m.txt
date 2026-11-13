@@ -13,7 +13,6 @@ guestuser
 mega
 tushar
 kheyot
-stas
 geoserver
 tania
 r
@@ -100,3 +99,5 @@ peggy
 gaohengyuan
 testrsync
 hyu
+makiyah
+paityn
