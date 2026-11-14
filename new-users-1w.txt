@@ -1,12 +1,6 @@
 grid
 mega
 geoserver
-tania
-enisa
-bao
 zxg
 zzg
 oraprod
-yinghe
-makiyah
-paityn
