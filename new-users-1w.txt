@@ -1,6 +1,11 @@
 grid
+user02
+xmr
 mega
 geoserver
+sandbox
+sakura
 zxg
 zzg
 oraprod
+dataTeeznar
