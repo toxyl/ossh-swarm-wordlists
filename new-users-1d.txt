@@ -1,9 +1,7 @@
-centos
-rock
-foo
-damien
-mp
-odoo8
-yaya
-xrdp
-winter
+brute
+smbuser
+lawrence
+katie
+its
+yoyo
+tekand
