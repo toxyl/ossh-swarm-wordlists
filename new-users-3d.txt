@@ -1,17 +1,7 @@
-centos
-rock
 brute
 smbuser
-foo
-damien
-mp
 lawrence
-ash
 katie
-odoo8
-yaya
-xrdp
 its
-winter
 yoyo
 tekand

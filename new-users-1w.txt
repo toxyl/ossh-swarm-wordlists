@@ -5,8 +5,8 @@ bitcoin
 angel
 rock
 chloe
-edge
 amax
+edge
 tony
 cowrie
 dst
@@ -27,8 +27,8 @@ karim
 barman
 matic
 ravi
-sandbox
 foo
+sandbox
 firewall
 henry
 damien

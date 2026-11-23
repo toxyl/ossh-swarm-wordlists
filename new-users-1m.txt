@@ -6,8 +6,8 @@ bitcoin
 angel
 rock
 chloe
-edge
 amax
+edge
 tony
 cowrie
 dst
@@ -32,8 +32,8 @@ matic
 geoserver
 tania
 ravi
-sandbox
 foo
+sandbox
 firewall
 henry
 damien

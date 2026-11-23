@@ -8,8 +8,8 @@ bitcoin
 angel
 rock
 chloe
-edge
 amax
+edge
 tony
 cowrie
 loginuser
@@ -42,8 +42,8 @@ matic
 geoserver
 tania
 ravi
-sandbox
 foo
+sandbox
 r
 firewall
 st
