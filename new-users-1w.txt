@@ -17,9 +17,7 @@ brute
 frontend
 ian
 ollama
-user02
 tt
-xmr
 setup
 kms
 smbuser
@@ -28,7 +26,6 @@ barman
 matic
 ravi
 foo
-sandbox
 firewall
 henry
 damien
@@ -37,7 +34,6 @@ sshtunnel
 irfan
 jona
 mythtv
-sakura
 oracle2
 player
 mp
@@ -72,5 +68,4 @@ gamemaster
 robyn
 vali
 tekand
-dataTeeznar
 drydock3
