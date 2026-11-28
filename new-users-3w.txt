@@ -2,8 +2,8 @@ centos
 cloud
 flink
 grid
-bitcoin
 angel
+bitcoin
 rock
 plexserver
 chloe
@@ -30,7 +30,6 @@ karim
 barman
 matic
 geoserver
-tania
 foo
 ravi
 sandbox
@@ -41,14 +40,13 @@ ttt
 liu
 sshtunnel
 irfan
+sakura
 jona
 mythtv
-sakura
 oracle2
 player
 mp
 naveen
-enisa
 lawrence
 ash
 pranav
@@ -56,7 +54,6 @@ icp
 ac
 deepspeed
 zahid
-bao
 ilya
 zxg
 novinhost
@@ -65,8 +62,8 @@ katie
 zzg
 odoo8
 yaya
-oraprod
 xrdp
+oraprod
 network3
 rise
 material
@@ -77,7 +74,6 @@ testi
 fluqueta
 winter
 oleh
-yinghe
 yoyo
 kishan
 gamemaster
@@ -94,8 +90,6 @@ micaiah
 lavik
 shin'ya
 drydock3
-makiyah
-paityn
 esequiel
 sdmy
 yuxuejiao

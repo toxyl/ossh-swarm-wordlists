@@ -2,8 +2,8 @@ centos
 cloud
 flink
 grid
-bitcoin
 angel
+bitcoin
 rock
 plexserver
 chloe
@@ -42,15 +42,15 @@ ttt
 liu
 sshtunnel
 irfan
+sakura
 jona
 mythtv
-sakura
 oracle2
 player
 mp
 naveen
-enisa
 lawrence
+enisa
 ash
 pranav
 icp
@@ -66,8 +66,8 @@ katie
 zzg
 odoo8
 yaya
-oraprod
 xrdp
+oraprod
 network3
 rise
 material

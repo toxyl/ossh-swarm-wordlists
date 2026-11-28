@@ -1,11 +1,3 @@
 plexserver
-brute
-smbuser
 ttt
-lawrence
-ash
-katie
-its
-yoyo
-tekand
 shawna
